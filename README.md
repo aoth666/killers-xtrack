@@ -4,6 +4,6 @@
 
 • cd killers-xtrack
 
-• chmod +x killers-xtrack.sh
+• chmod +x main.sh
 
-• bash killers-xtrack.sh
+• bash main.sh
